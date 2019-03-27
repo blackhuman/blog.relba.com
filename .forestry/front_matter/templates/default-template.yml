@@ -12,3 +12,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- content/posts/github-pages-first-step.md
