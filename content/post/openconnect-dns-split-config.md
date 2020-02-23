@@ -1,7 +1,7 @@
 ---
 typora-copy-images-to: ./openconnect-dns-split-config.assets
-tags: [#dns]
 typora-root-url: ./openconnect-dns-split-config.assets
+tags: ["dns"]
 ---
 
 # OpenConnect DNS Split 配置
