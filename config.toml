@@ -1,5 +1,5 @@
 baseURL = "https://www.relba.com/"
 languageCode = "zh-cn"
 title = "August's Blog"
-theme = "hugo-nuo"
+theme = "ananke"
 

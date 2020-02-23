@@ -8,3 +8,6 @@
 	path = themes/hugo-nuo
 	url = https://github.com/laozhu/hugo-nuo
 	branch = master
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git

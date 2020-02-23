@@ -1,7 +1,10 @@
 ---
+title: OpenConnect DNS Split 配置
+date: 2020-02-23 13:46:31 +8000
 typora-copy-images-to: ./openconnect-dns-split-config.assets
 typora-root-url: ./openconnect-dns-split-config.assets
-tags: ["dns"]
+tags: 
+- dns
 ---
 
 # OpenConnect DNS Split 配置
