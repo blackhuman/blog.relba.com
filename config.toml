@@ -1,4 +1,4 @@
-baseURL = "https://blog.relba.com/"
+baseURL = "https://www.relba.com/"
 languageCode = "zh-cn"
 title = "August's Blog"
 theme = "hugo-nuo"
