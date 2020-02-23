@@ -27,3 +27,5 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
+          keep_files: true
+          force_orphan: true
